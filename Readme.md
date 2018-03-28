@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юлия Родионова](https://up.htmlacademy.ru/javascript/13/user/330273).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет наставника`.
 
 ---
 
